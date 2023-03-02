@@ -1,0 +1,2 @@
+set(exercise3_MESSAGE_FILES "/home/user/catkin_ws/devel/share/exercise3/msg/FactorialAction.msg;/home/user/catkin_ws/devel/share/exercise3/msg/FactorialActionGoal.msg;/home/user/catkin_ws/devel/share/exercise3/msg/FactorialActionResult.msg;/home/user/catkin_ws/devel/share/exercise3/msg/FactorialActionFeedback.msg;/home/user/catkin_ws/devel/share/exercise3/msg/FactorialGoal.msg;/home/user/catkin_ws/devel/share/exercise3/msg/FactorialResult.msg;/home/user/catkin_ws/devel/share/exercise3/msg/FactorialFeedback.msg")
+set(exercise3_SERVICE_FILES "")
