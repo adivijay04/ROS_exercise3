@@ -1,7 +1,7 @@
 # ROS_exercise3
 In ROS, creating a simple action messages with server and client. To understand the basic service node with server and client, I have provided the links in my previous exercise2 : https://github.com/adivijay04/ROS_exercise2
 
-#Problem Statement of Exercise 3
+# Problem Statement of Exercise 3
 1. Create a package exercise3
 
 2. Create a ros action service to compute Factorial of a number in Python. Create required nodes and action msg files as you see fit.
